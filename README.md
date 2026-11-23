@@ -29,8 +29,8 @@ Pure Python standard library. No installs needed to run it. Sample report: [`doc
 ## Quick start
 
 ```bash
-git clone https://github.com/<Nelvin-Mwendwa>/shop-daily-report.git
-cd shop-daily-report
+git clone https://github.com/nelvinmwendwa/Shop-daily-report.git
+cd Shop-daily-report
 
 python3 generate_sample_data.py        # fake data into sample_data/
 
